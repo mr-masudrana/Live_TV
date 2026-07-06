@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FIFA2026.Toffee" tvg-name="FIFA 2026 (Toffee)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/FIFA_World_Cup_2026_logo.svg" group-title="Sports",FIFA 2026 (Toffee)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1783408885~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBntfFhwTsRtJn1ahnErk8XMl-jFS3sWpb6F4fgm7p5iYHCiw7sAp77S-nLYd5XrWpZedN5nAekwmrh5ZOFP0oG
+
+#EXTINF:-1 tvg-id="FIFA2026.Proxy" tvg-name="FIFA 2026 (Proxy)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/FIFA_World_Cup_2026_logo.svg" group-title="Sports",FIFA 2026 (Proxy)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
