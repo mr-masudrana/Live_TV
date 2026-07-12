@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="toffee.com" tvg-name="Toffee" tvg-logo="https://raw.githubusercontent.com/mr-masudrana/Live_TV/refs/heads/main/assets/toffee.webp" group-title="Sports",Toffee
+#EXTINF:-1 tvg-id="fifa.com" tvg-name="Fifa" tvg-logo="/assets/toffee.webp" group-title="Sports", FIFA
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
 
+#EXTINF:-1 tvg-id="toffee.com" tvg-name="Toffee" tvg-logo="https://raw.githubusercontent.com/mr-masudrana/Live_TV/refs/heads/main/assets/toffee.webp" group-title="Sports",Toffee
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
 
 #EXTINF:-1 tvg-id="bioscope.com" tvg-name="Bioscope" tvg-logo="https://raw.githubusercontent.com/mr-masudrana/Live_TV/refs/heads/main/assets/bioscope.webp" group-title="Sports",Bioscope
 https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
